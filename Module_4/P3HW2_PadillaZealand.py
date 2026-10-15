@@ -21,7 +21,6 @@ else:
     gross_pay = reg_pay
     ot_hours = 0
 
-
 # Return results
 print(f"Employee name: {name}")
 print()
